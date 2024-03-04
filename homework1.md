@@ -1,4 +1,4 @@
-# Homework1 
+# Homework_Getting Started
 ##### 丁苗蕙 2024/3/4
 ### 🏆Lecture Notes
 #### 1. Gene: Coding & Noncoding
